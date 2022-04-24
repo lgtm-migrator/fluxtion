@@ -15,11 +15,10 @@
  * along with this program.  If not, see 
  * <http://www.mongodb.com/licensing/server-side-public-license>.
  */
-package com.fluxtion.compiler.builder.declarative;
+package com.fluxtion.compiler.builder.yamlbuilder;
 
-import com.fluxtion.compiler.builder.yamlbuilder.SepConfigGenerator;
 import com.fluxtion.runtime.annotations.OnTrigger;
-import com.fluxtion.compiler.builder.declarative.MathFactory.FunctionCfg;
+import com.fluxtion.compiler.builder.yamlbuilder.MathFactory.FunctionCfg;
 import java.util.List;
 
 /**
